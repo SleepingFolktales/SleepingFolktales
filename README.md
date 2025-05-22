@@ -36,13 +36,6 @@
   <a href="https://github.com/SleepingFolktales">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepingFolktales&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
-  <a href="https://github.com/SleepingFolktales" target="_blank" rel="noopener noreferrer">
-    <img
-      height="150"
-      src="https://metrics.lecoq.io/SleepingFolktales?template=classic&isocalendar=1&base=header,activity,community,repositories,metadata&isocalendar.duration=half-year&config.timezone=Asia/Jakarta"
-      alt="SleepingFolktales GitHub Metrics"
-    />
-  </a>
 </p>
 
 ---
