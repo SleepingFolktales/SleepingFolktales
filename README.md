@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Razi!</h1>
 
 <p align="center">
-  <a href="https://github.com/razi-aiandyou">
+  <a href="https://github.com/SleepingFolktales">
     <img src="https://komarev.com/ghpvc/?username=SleepingFolktales&style=flat-square" alt="Profile views"/>
   </a>
   <a href="https://github.com/SleepingFolktales?tab=repositories">
